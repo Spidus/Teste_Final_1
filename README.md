@@ -43,13 +43,10 @@ May the force be with you!
 |-->imagens<br>
 |-->src<br>
 |readme.md<br>
-|license.txt<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
 
 <b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-<b>license.txt</b>: Arquivo de licença do projeto, para que qualquer um possa entender até que ponto podem utilizar seu projeto. Aconselhável utilizar a licença Creative Commons Attribution 4.0 International.
 
 Há também 4 pastas que seguem da seguinte forma:
 
